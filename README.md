@@ -8,7 +8,7 @@ Crime statistics are easily located, however, every jurisdiction reports those s
 
 ## Data Sources and **E**xtract
 
-We started by extracing the Crime reports from [data.world] (https://data.world/) in .csv format. 
+We started by extracting the Crime reports from [data.world] (https://data.world/) in .csv format. 
 
 * Raleigh, NC:
 https://data.world/mschnars/raleigh-crime-incidents/workspace/file?filename=RaleighPoliceIncidents.csv
@@ -30,7 +30,7 @@ For consistency, we settled on keeping following categories in each dataframe:
 3. Crime Type 
 	* Each jurisdiction labels similar crimes differently i.e. Durham has Nine different Larceny categories. 
 	* Crime categorized tables were created for each of the cities to compare like Crime Types
-	* The Crime Categories choosen were Assult, Murder, Stolen, and Other.	 
+	* The Crime Categories chosen were Assault, Murder, Stolen, and Other.	 
 4. City Name
 
 Data Transformation included:
@@ -43,4 +43,4 @@ Data Transformation included:
 * Integrating heading names and crime caegories.
 * Concatinated city dataframes into one master dataframe
 
-## Collection and **L**oad
+
