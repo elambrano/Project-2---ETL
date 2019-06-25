@@ -2,7 +2,7 @@
 # ETL Project
 ## Project Description
 
-For this project, we will download crime statistics from three North Carolina cities: Raleigh, Durham and Cary. Data cleanup and transformation was accomplished by using Python libraries: Pandas, SQLalchemy. 
+For this project, I downloaded crime statistics from three North Carolina cities: Raleigh, Durham and Cary. Data cleanup and transformation was accomplished by using Python libraries: Pandas, SQLAlchemy. 
 
 Crime statistics are easily located, however, every jurisdiction reports those statistics in a unique format. We found relationships, trends, contrasts by making the data uniform across these different cities. 
 
